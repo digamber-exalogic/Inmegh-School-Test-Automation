@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.inmegh_school.test.regression.VerifyDashboardPage_SC_002">
+        <methods>
+          <include name="getDriver"/>
+          <include name="register"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="signOutVerify_TC_009"/>
+          <include name="tearDown"/>
+          <include name="captureStatus"/>
+        </methods>
+      </class> <!-- com.inmegh_school.test.regression.VerifyDashboardPage_SC_002 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
