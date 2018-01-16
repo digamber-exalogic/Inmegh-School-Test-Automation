@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="1" ignored="0" total="9" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9506" started-at="2017-12-04T07:24:05Z" finished-at="2017-12-04T07:24:14Z">
+  <suite name="Default suite" duration-ms="8797" started-at="2018-01-08T04:57:30Z" finished-at="2018-01-08T04:57:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9506" started-at="2017-12-04T07:24:05Z" finished-at="2017-12-04T07:24:14Z">
+    <test name="Default test" duration-ms="8797" started-at="2018-01-08T04:57:30Z" finished-at="2018-01-08T04:57:39Z">
       <class name="com.inmegh_school.test.regression.VerifyDashboardPage_SC_002">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="beforeSuite" is-config="true" duration-ms="574" started-at="2017-12-04T12:54:04Z" finished-at="2017-12-04T12:54:05Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="beforeSuite" is-config="true" duration-ms="555" started-at="2018-01-08T10:27:29Z" finished-at="2018-01-08T10:27:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="getDriver" is-config="true" duration-ms="5168" started-at="2017-12-04T12:54:05Z" finished-at="2017-12-04T12:54:10Z">
+        <test-method status="PASS" signature="getDriver()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="getDriver" is-config="true" duration-ms="5160" started-at="2018-01-08T10:27:30Z" finished-at="2018-01-08T10:27:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="9" started-at="2017-12-04T12:54:10Z" finished-at="2017-12-04T12:54:10Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="5" started-at="2018-01-08T10:27:35Z" finished-at="2018-01-08T10:27:35Z">
           <params>
             <param index="0">
               <value>
@@ -26,22 +26,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="magicWandVerify_TC_001()[pri:1, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="magicWandVerify_TC_001" duration-ms="732" started-at="2017-12-04T12:54:10Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="magicWandVerify_TC_001()[pri:1, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="magicWandVerify_TC_001" duration-ms="710" started-at="2018-01-08T10:27:35Z" finished-at="2018-01-08T10:27:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- magicWandVerify_TC_001 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="2" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=magicWandVerify_TC_001 status=SUCCESS method=VerifyDashboardPage_SC_002.magicWandVerify_TC_001()[pri:1, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=magicWandVerify_TC_001 status=SUCCESS method=VerifyDashboardPage_SC_002.magicWandVerify_TC_001()[pri:1, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="adminDropdownVerify_TC_002()[pri:2, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="adminDropdownVerify_TC_002" duration-ms="309" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminDropdownVerify_TC_002 -->
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="0" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
@@ -52,22 +56,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="adminDropdownVerify_TC_002()[pri:2, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="adminDropdownVerify_TC_002" duration-ms="281" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- adminDropdownVerify_TC_002 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="0" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=adminDropdownVerify_TC_002 status=SUCCESS method=VerifyDashboardPage_SC_002.adminDropdownVerify_TC_002()[pri:2, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=adminDropdownVerify_TC_002 status=SUCCESS method=VerifyDashboardPage_SC_002.adminDropdownVerify_TC_002()[pri:2, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="notificationVerify_TC_003()[pri:3, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="notificationVerify_TC_003" duration-ms="299" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notificationVerify_TC_003 -->
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="0" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
@@ -78,22 +82,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="notificationVerify_TC_003()[pri:3, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="notificationVerify_TC_003" duration-ms="290" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- notificationVerify_TC_003 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="0" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=notificationVerify_TC_003 status=SUCCESS method=VerifyDashboardPage_SC_002.notificationVerify_TC_003()[pri:3, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=notificationVerify_TC_003 status=SUCCESS method=VerifyDashboardPage_SC_002.notificationVerify_TC_003()[pri:3, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="0" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
@@ -104,22 +104,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="rightToggleVerify_TC_004()[pri:4, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="rightToggleVerify_TC_004" duration-ms="111" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="rightToggleVerify_TC_004()[pri:4, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="rightToggleVerify_TC_004" duration-ms="102" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rightToggleVerify_TC_004 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=rightToggleVerify_TC_004 status=SUCCESS method=VerifyDashboardPage_SC_002.rightToggleVerify_TC_004()[pri:4, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=rightToggleVerify_TC_004 status=SUCCESS method=VerifyDashboardPage_SC_002.rightToggleVerify_TC_004()[pri:4, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:11Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:36Z">
           <params>
             <param index="0">
               <value>
@@ -130,26 +130,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="settingVerify_TC_005()[pri:5, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="settingVerify_TC_005" duration-ms="438" started-at="2017-12-04T12:54:11Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="settingVerify_TC_005()[pri:5, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="settingVerify_TC_005" duration-ms="433" started-at="2018-01-08T10:27:36Z" finished-at="2018-01-08T10:27:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- settingVerify_TC_005 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="3" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=settingVerify_TC_005 status=SUCCESS method=VerifyDashboardPage_SC_002.settingVerify_TC_005()[pri:5, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=settingVerify_TC_005 status=SUCCESS method=VerifyDashboardPage_SC_002.settingVerify_TC_005()[pri:5, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="attendanceStatusVerify_TC_006()[pri:6, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="attendanceStatusVerify_TC_006" duration-ms="372" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- attendanceStatusVerify_TC_006 -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
           <params>
             <param index="0">
               <value>
@@ -160,22 +156,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="attendanceStatusVerify_TC_006()[pri:6, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="attendanceStatusVerify_TC_006" duration-ms="323" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attendanceStatusVerify_TC_006 -->
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=attendanceStatusVerify_TC_006 status=SUCCESS method=VerifyDashboardPage_SC_002.attendanceStatusVerify_TC_006()[pri:6, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=attendanceStatusVerify_TC_006 status=SUCCESS method=VerifyDashboardPage_SC_002.attendanceStatusVerify_TC_006()[pri:6, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="financeStatusVerify_TC_007()[pri:7, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="financeStatusVerify_TC_007" duration-ms="316" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- financeStatusVerify_TC_007 -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
           <params>
             <param index="0">
               <value>
@@ -186,18 +182,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="financeStatusVerify_TC_007()[pri:7, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="financeStatusVerify_TC_007" duration-ms="297" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- financeStatusVerify_TC_007 -->
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=financeStatusVerify_TC_007 status=SUCCESS method=VerifyDashboardPage_SC_002.financeStatusVerify_TC_007()[pri:7, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=financeStatusVerify_TC_007 status=SUCCESS method=VerifyDashboardPage_SC_002.financeStatusVerify_TC_007()[pri:7, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:12Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:37Z">
           <params>
             <param index="0">
               <value>
@@ -208,22 +208,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="PASS" signature="sideToggleVerify_TC_008()[pri:8, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="sideToggleVerify_TC_008" duration-ms="344" started-at="2017-12-04T12:54:12Z" finished-at="2017-12-04T12:54:13Z">
+        <test-method status="PASS" signature="sideToggleVerify_TC_008()[pri:8, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="sideToggleVerify_TC_008" duration-ms="349" started-at="2018-01-08T10:27:37Z" finished-at="2018-01-08T10:27:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sideToggleVerify_TC_008 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="1" started-at="2017-12-04T12:54:13Z" finished-at="2017-12-04T12:54:13Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="1" started-at="2018-01-08T10:27:38Z" finished-at="2018-01-08T10:27:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=sideToggleVerify_TC_008 status=SUCCESS method=VerifyDashboardPage_SC_002.sideToggleVerify_TC_008()[pri:8, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=sideToggleVerify_TC_008 status=SUCCESS method=VerifyDashboardPage_SC_002.sideToggleVerify_TC_008()[pri:8, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="register" is-config="true" duration-ms="0" started-at="2017-12-04T12:54:13Z" finished-at="2017-12-04T12:54:13Z">
+        <test-method status="PASS" signature="register(java.lang.reflect.Method)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="register" is-config="true" duration-ms="0" started-at="2018-01-08T10:27:38Z" finished-at="2018-01-08T10:27:38Z">
           <params>
             <param index="0">
               <value>
@@ -234,7 +234,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method status="FAIL" signature="signOutVerify_TC_009()[pri:9, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="signOutVerify_TC_009" duration-ms="12" started-at="2017-12-04T12:54:13Z" finished-at="2017-12-04T12:54:13Z">
+        <test-method status="FAIL" signature="signOutVerify_TC_009()[pri:9, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="signOutVerify_TC_009" duration-ms="7" started-at="2018-01-08T10:27:38Z" finished-at="2018-01-08T10:27:38Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -277,22 +277,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signOutVerify_TC_009 -->
-        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="captureStatus" is-config="true" duration-ms="294" started-at="2017-12-04T12:54:13Z" finished-at="2017-12-04T12:54:13Z">
+        <test-method status="PASS" signature="captureStatus(org.testng.ITestResult)[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="captureStatus" is-config="true" duration-ms="262" started-at="2018-01-08T10:27:38Z" finished-at="2018-01-08T10:27:38Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=signOutVerify_TC_009 status=FAILURE method=VerifyDashboardPage_SC_002.signOutVerify_TC_009()[pri:9, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3] output={null}]]]>
+                <![CDATA[[TestResult name=signOutVerify_TC_009 status=FAILURE method=VerifyDashboardPage_SC_002.signOutVerify_TC_009()[pri:9, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- captureStatus -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="tearDown" is-config="true" duration-ms="1049" started-at="2017-12-04T12:54:13Z" finished-at="2017-12-04T12:54:14Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="tearDown" is-config="true" duration-ms="470" started-at="2018-01-08T10:27:38Z" finished-at="2018-01-08T10:27:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7ce026d3]" name="afterSuite" is-config="true" duration-ms="410" started-at="2017-12-04T12:54:14Z" finished-at="2017-12-04T12:54:15Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.inmegh_school.test.regression.VerifyDashboardPage_SC_002@7e057f43]" name="afterSuite" is-config="true" duration-ms="410" started-at="2018-01-08T10:27:39Z" finished-at="2018-01-08T10:27:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
